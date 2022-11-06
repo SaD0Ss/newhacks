@@ -13,7 +13,7 @@
   background-position: center;
 }
 
-.top{
+.firstlogo{
   width: 93%;
   margin: auto;
   padding: 35px 0;
@@ -24,10 +24,10 @@
   letter-spacing: 2px;
   width: 100%;
   position: absolute;
-  top: 25%;
+  top: 37%;
   transform: translateY(100%);
   text-align: center;
-  transform: translateX(-5%);
+  transform: translateX(-1%);
   color: white;
 }
 .content h1{
@@ -65,7 +65,7 @@ span{
   left: 0;
   bottom: 0;
   z-index: -1;
-  transition: 0s;
+  transition: 0.2s;
 }
 button:hover span{
   width: 100%;
